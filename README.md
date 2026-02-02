@@ -1,6 +1,6 @@
 # Reference Demo Framework (for AEM EDS)
 
-**Build your Own Demos for AEM EDS**
+**Build your Own Demos for AEM Edge Delivery**
 - Custom Themes (with and without code)
 - Dynamic Media Templates
 - Dynamic Media Open API & native Dynamic Media Blocks
